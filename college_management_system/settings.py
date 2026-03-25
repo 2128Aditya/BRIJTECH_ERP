@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 # ================= SECURITY =================
-SECRET_KEY = 'f2zx8*lb*em*-*b+!&1lpp&$_9q9kmkar+l3x90do@s(+sr&x7'
+SECRET_KEY = 'django-insecure-abc123xyz987-super-secret'
 
 DEBUG = True  # Deploy ke baad False kar dena
 
