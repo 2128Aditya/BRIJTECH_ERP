@@ -1,17 +1,4 @@
-<div align="center">
 
-# 🎓 College ERP System
-
-### Enterprise Resource Planning Solution for Educational Institutions
-
-[![Stars](https://img.shields.io/github/stars/Ansarimajid/College-ERP?style=for-the-badge&logo=github)](https://github.com/Ansarimajid/College-ERP)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
-[Live Demo](https://syncx.pythonanywhere.com) • [Report Bug](https://github.com/Ansarimajid/College-ERP/issues) • [Request Feature](https://github.com/Ansarimajid/College-ERP/issues)
-
-</div>
 
 ---
 
@@ -90,19 +77,7 @@
 
 ---
 
-## 🔑 Demo Credentials
 
-### 🌐 Live Demo
-Visit: **[https://syncx.pythonanywhere.com](https://syncx.pythonanywhere.com)** (v2.0.0)
-
-### Login Details
-
-| Role | Email | Password |
-|------|-------|----------|
-| 👨‍🎓 **Student** | `studentone@student.com` | `studentone` |
-| 👨‍🏫 **Staff** | `staffone@staff.com` | `staffone` |
-
----
 
 ## 🛠️ Technology Stack
 
@@ -131,7 +106,7 @@ Ensure you have the following installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ansarimajid/College-ERP.git
+git clone 
 cd College-ERP
 ```
 
@@ -273,37 +248,15 @@ If you find this project helpful, please consider:
 - 📢 **Share** with fellow developers
 - 👨‍💻 **Contribute** to the codebase
 
-### Connect with the Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ansarimajid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansmajidali)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📞 Contact & Support
 
 Having issues? Need help?
 
-- 📧 **Email:** [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/Ansarimajid/College-ERP/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/Ansarimajid/College-ERP/discussions)
+- 📧 **Email:** [ansmajidali@gmail.com](mailto:aadi21082003@gmail.com)
 
 ---
 
-<div align="center">
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ansarimajid/College-ERP&type=Date)](https://star-history.com/#Ansarimajid/College-ERP&Date)
-
-**Made with ❤️ by [Ansari Majid](https://github.com/Ansarimajid)**
-
-*If this project helped you, consider giving it a star! ⭐*
-
-</div>
