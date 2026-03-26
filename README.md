@@ -87,7 +87,7 @@
 | **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
 | **Database** | SQLite (Development), PostgreSQL (Production Ready) |
 | **Authentication** | Django Auth, Google reCAPTCHA |
-| **Deployment** | PythonAnywhere |
+
 
 ---
 
