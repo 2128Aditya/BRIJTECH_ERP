@@ -2,7 +2,7 @@ name: Django-env
 channels:
   - defaults
 dependencies:
-  - ca-certificates=2024.9.24=haa95532_0
+  - ca-certificates=2026.9.24=haa95532_0
   - certifi=2022.12.7=py37haa95532_0
   - openssl=1.1.1w=h2bbff1b_0
   - pip=22.3.1=py37haa95532_0
