@@ -1,5 +1,5 @@
 /**
- * College ERP Notification Manager
+ * BRIJTECH ACADEMY Notification Manager
  * Handles Firebase Cloud Messaging notifications with proper permission management
  */
 
