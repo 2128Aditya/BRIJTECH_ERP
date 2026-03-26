@@ -196,46 +196,60 @@ body {
   color: #a0aec0;
 }
 
-/* Dark mode support for entire sidebar */
-.dark-mode .erpnext-sidebar {
-  background: #2d3748;
-  border-right-color: #4a5568;
-}
+/* FULL DARK MODE */
 
-.dark-mode .sidebar-header {
-  border-bottom-color: #4a5568;
-}
-
-.dark-mode .nav-section-title {
-  color: #a0aec0;
-}
-
-.dark-mode .nav-link {
+/* Body */
+body.dark-mode {
+  background-color: #121212;
   color: #e2e8f0;
 }
 
-.dark-mode .nav-link:hover {
+/* Navbar */
+body.dark-mode .erpnext-navbar {
+  background-color: #1f2937;
+  color: #e2e8f0;
+  border-bottom: 1px solid #374151;
+}
+
+/* Main content */
+body.dark-mode .erpnext-main {
+  background-color: #111827;
+}
+
+/* Page header */
+body.dark-mode .page-header {
+  background-color: #1f2937;
+  color: #e2e8f0;
+}
+
+/* Cards / content */
+body.dark-mode .content-area {
+  background-color: #1f2937;
+  color: #e2e8f0;
+}
+
+/* Breadcrumb */
+body.dark-mode .breadcrumb {
+  background-color: transparent;
+}
+
+body.dark-mode .breadcrumb a {
+  color: #93c5fd;
+}
+
+/* Buttons */
+body.dark-mode .btn {
   background-color: #374151;
-  color: #66b3ff;
+  color: #fff;
+  border-color: #4b5563;
 }
 
-.dark-mode .nav-link.active {
-  background-color: #1a365d;
-  color: #66b3ff;
-  border-left-color: #66b3ff;
+/* Alerts */
+body.dark-mode .alert {
+  background-color: #1f2937;
+  color: #e2e8f0;
+  border-color: #374151;
 }
-
-.dark-mode .nav-submenu {
-  background-color: #374151;
-}
-
-/* Dark mode support for default avatar */
-.dark-mode .sidebar-default-avatar {
-  color: #a0aec0;
-  background-color: #4a5568;
-  border-color: #718096;
-}
-
 /* AdminLTE default avatar styling */
 .adminlte-default-avatar {
   width: 40px;
