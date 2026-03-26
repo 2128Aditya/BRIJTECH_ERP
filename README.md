@@ -256,7 +256,7 @@ If you find this project helpful, please consider:
 
 Having issues? Need help?
 
-- 📧 **Email:** [ansmajidali@gmail.com](mailto:aadi21082003@gmail.com)
+- 📧 **Email:** [aadi21082003@gmail.com](mailto:aadi21082003@gmail.com)
 
 ---
 
